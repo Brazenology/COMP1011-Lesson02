@@ -6,7 +6,12 @@ public class Villain extends Hero {
 	}
 	
 	public void steals() {
-		System.out.println(this.name + " steals health");
+		System.out.println(this.name + " stealin'");
 	}
+	
+	public void kill() {
+		System.out.println(this.name + " is goin' around killin'");
+	}
+
 
 }
