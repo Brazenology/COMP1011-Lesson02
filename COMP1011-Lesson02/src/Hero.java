@@ -1,7 +1,7 @@
 public class Hero {
 	// PRIVATE PROPERTIES ++++++++++++++++++++++++++++++++++++++++++++
-	private int strength;
-	private int speed;
+	protected int strength;
+	protected int speed;
 	private int health;
 	
 	// PUBLIC PROPERTIES +++++++++++++++++++++++++++++++++++++++++++++
