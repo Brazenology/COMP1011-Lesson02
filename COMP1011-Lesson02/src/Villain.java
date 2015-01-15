@@ -12,6 +12,4 @@ public class Villain extends Hero {
 	public void kill() {
 		System.out.println(this.name + " is goin' around killin'");
 	}
-
-
 }
