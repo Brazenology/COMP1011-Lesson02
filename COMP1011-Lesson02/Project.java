@@ -8,7 +8,5 @@ public class Project {
 		hero.fight();
 		hero.run();
 		hero.showAbilities();
-
 	}
-
 }
